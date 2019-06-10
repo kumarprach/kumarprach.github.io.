@@ -1,0 +1,62 @@
+body
+{
+	background-color: black;
+	color: white;
+	font-family: Helvetica, "Times New Roman", "Courier New", Palatino, Sarif;
+}
+h1
+{
+	text-align: center;
+	font-size: 80pt;
+}
+h2
+{
+	font-size: 40pt;
+}
+h3
+{
+	font-size: 20pt;
+}
+p 
+{
+	font-size: 12pt;
+}
+ul
+{
+	list-style-type: square;
+}
+ol
+{
+	list-style-type: upper-roman;
+}
+img
+{
+	border: 5px;
+	border-style: solid;
+	border-color: silver;
+	margin: 10px;
+}
+p.size
+{
+	font-size: 14pt;
+}
+h2.smaller
+{
+	font-size: 16pt;
+}
+#bibliography
+{
+	text-align: left;
+	font-size: 24pt;
+}
+#content
+{
+	list-style: initial;
+	color: white;
+}
+#citations
+{
+	font-size: 14pt;
+	text-align: left;
+	line-height: 1.6;
+}
